@@ -23,7 +23,7 @@ Windows Spotlight is an option for the lock screen background that displays diff
 
 ### Clone the Repository
 
-Clone this repository to your local machine using [https://github.com/yourusername/spotlight-watcher.git](https://github.com/yourusername/spotlight-watcher.git)
+Clone this repository to your local machine using [https://github.com/MyLhassane/spotlight-watcher.git](https://github.com/MyLhassane/spotlight-watcher.git)
 
 ### Install Dependencies
 
